@@ -19,6 +19,21 @@ current value of expression is 4. so we calculate a 4*2.
 
 그러므로 2^3은 8입니다.
 so, 2^3 is 8.
+
+# 자바스크립트를 사용한 생각의 단계의 식
+Expression of thinking step using javascript
+
+var x = '2^3'
+var number = parseInt(x.substr(0,1))
+var power = x.indexOf("^") + 1
+var number_of_repeat = x.substr(power)
+var result = number;
+
+for(i=1;i<number_of_repeat;i++) {
+   result = result * number;
+}
+
+console.log(result);
 ```
 
 ### 2. 정수와 유리수 (integer and rational number)
