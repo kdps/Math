@@ -1,3 +1,82 @@
+#### 수학에 대한 전반적인 정리 Everything (at least for me...) of Math
+
+# 1. 자연수
+
+# 2. 정수와 유리수
+
+# 3. 일차방정식
+
+# 4. 좌표평면, 그래프
+
+# 5. 도형의 기초
+
+# 6. 평면도형
+
+# 7. 입체도형
+
+# 8. 통계
+
+# 9. 유리수와 근사값
+
+# 10. 식의 계산
+
+# 11. 연립방정식
+
+# 12. 부등식
+
+# 13. 일차함수
+
+# 14. 확률
+
+# 15. 도형의 성질
+
+# 16. 도형의 닮음
+
+# 17. 다항식
+
+# 18. 방정식과 부등식
+
+# 19. 도형의 방정식
+
+# 20. 집합과 명제
+
+# 21. 함수
+
+# 22. 수열
+
+# 23. 지수함수와 로그함수
+
+# 24. 함수(function)
+
+# 24. 1차 함수(linear function)
+
+# 25. 3차 함수 (cubic function)
+
+# 26. 비선형 함수(Nonlinear function)와 활성화 함수(Activation functions)
+
+# 27. MFCC(Mel-Frequency Cepstral Coefficient)
+
+# 28. Fast Fourier Transform
+
+# 29. Filler determine model, Filler classifier model
+
+# 30. 이진 분류 (Binary Classification)
+
+# 31. 로지스틱 회귀 (logistic regression)
+
+# 32. 로지스틱 회귀 경사 하강법(Logistic Regression Gradient Descent)
+
+# 33. 하이퍼 매개변수 (Hyper parameter)
+
+# 34. 순전파 (forward propagation)
+
+# 35. 역전파 (back propagation)
+
+# 36. 브로드캐스팅(Broadcating in Python)
+
+# 37. 벡터화(Vectorization)
+
+
 #### f(x) = x^3
 
 ```
