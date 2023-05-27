@@ -2,6 +2,25 @@
 
 ### 1. 자연수 (natural number)
 
+#### 1.1 거듭제곱 (exponentiation)
+
+```
+거듭제곱(exponentiation)은 지수(power)만큼 반복해서 자신을 곱해라는 뜻입니다.
+exponentiation is number of self repeat multiply.
+
+예를 들어 2^3은 자신을 3번을 구해라는 의미입니다.
+For example, 2^3 means multiply itself 3 times.
+
+2*2를 해서 자신의 값이 4가 되었습니다.
+we calculate a 2*2. Now, value of expression is 4.
+
+자신의 현재 값은 4이므로 4*2를 해야 합니다.
+current value of expression is 4. so we calculate a 4*2.
+
+그러므로 2^3은 8입니다.
+so, 2^3 is 8.
+```
+
 ### 2. 정수와 유리수 (integer and rational number)
 
 ### 3. 일차방정식 (linear equation)
