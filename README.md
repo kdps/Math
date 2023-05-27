@@ -1,80 +1,76 @@
 #### 수학에 대한 전반적인 정리 Everything (at least for me...) of Math
 
-# 1. 자연수
+### 1. 자연수 (natural number)
 
-# 2. 정수와 유리수
+### 2. 정수와 유리수 (integer and rational number)
 
-# 3. 일차방정식
+### 3. 일차방정식 (linear equation)
 
-# 4. 좌표평면, 그래프
+### 4. 좌표평면, 그래프 (coordinate plane, graph)
 
-# 5. 도형의 기초
+### 5. 도형의 기초 (the basis of a figure)
 
-# 6. 평면도형
+### 6. 평면도형 (a plane figure)
 
-# 7. 입체도형
+### 7. 입체도형 (a solid figure)
 
-# 8. 통계
+### 8. 통계 (statistics)
 
-# 9. 유리수와 근사값
+### 9. 유리수와 근사값 (rational number and approximate value)
 
-# 10. 식의 계산
+### 10. 식의 계산 (the calculation of an expression)
 
-# 11. 연립방정식
+### 11. 연립방정식 (system of equations)
 
-# 12. 부등식
+### 12. 부등식 (inequation)
 
-# 13. 일차함수
+### 13. 확률 (probability)
 
-# 14. 확률
+### 14. 도형의 성질 (properties of shapes)
 
-# 15. 도형의 성질
+### 15. 도형의 닮음 (shape resemblance)
 
-# 16. 도형의 닮음
+### 16. 다항식 (polynomials)
 
-# 17. 다항식
+### 17. 방정식과 부등식 (equations and inequalities)
 
-# 18. 방정식과 부등식
+### 18. 도형의 방정식 (equations in shapes)
 
-# 19. 도형의 방정식
+### 19. 집합과 명제 (sets and propositions)
 
-# 20. 집합과 명제
+### 20. 함수 (function)
 
-# 21. 함수
+### 21. 수열 (sequences)
 
-# 22. 수열
+### 22. 지수함수와 로그함수 (exponential and logarithmic functions)
 
-# 23. 지수함수와 로그함수
+### 23. 1차 함수(linear function)
 
-# 24. 함수(function)
+### 24. 3차 함수 (cubic function)
 
-# 24. 1차 함수(linear function)
+### 25. 비선형 함수(Nonlinear function)와 활성화 함수(Activation functions)
 
-# 25. 3차 함수 (cubic function)
+### 26. MFCC(Mel-Frequency Cepstral Coefficient)
 
-# 26. 비선형 함수(Nonlinear function)와 활성화 함수(Activation functions)
+### 27. Fast Fourier Transform
 
-# 27. MFCC(Mel-Frequency Cepstral Coefficient)
+### 28. Filler determine model, Filler classifier model
 
-# 28. Fast Fourier Transform
+### 29. 이진 분류 (Binary Classification)
 
-# 29. Filler determine model, Filler classifier model
+### 30. 로지스틱 회귀 (logistic regression)
 
-# 30. 이진 분류 (Binary Classification)
+### 31. 로지스틱 회귀 경사 하강법(Logistic Regression Gradient Descent)
 
-# 31. 로지스틱 회귀 (logistic regression)
+### 32. 하이퍼 매개변수 (Hyper parameter)
 
-# 32. 로지스틱 회귀 경사 하강법(Logistic Regression Gradient Descent)
+### 33. 순전파 (forward propagation)
 
-# 33. 하이퍼 매개변수 (Hyper parameter)
+### 34. 역전파 (back propagation)
 
-# 34. 순전파 (forward propagation)
+### 35. 브로드캐스팅(Broadcating in Python)
 
-# 35. 역전파 (back propagation)
-
-# 36. 브로드캐스팅(Broadcating in Python)
-
-# 37. 벡터화(Vectorization)
+### 36. 벡터화(Vectorization)
 
 
 #### f(x) = x^3
