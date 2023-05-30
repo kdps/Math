@@ -106,6 +106,7 @@ console.log(result);
 
 ### 36. 벡터화(Vectorization)
 
+### 37. FF 알고리즘 (forward forward algorithm)
 
 #### f(x) = x^3
 
